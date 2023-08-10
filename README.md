@@ -7,7 +7,7 @@ Customer behavior analysis is the process of analyzing and understanding the act
 # Data Analytics
 
 Results from observation data analysis, as follows:
-* The products that consumers spent the most money on during the 2-year period were Wine (50.3%) and Meat product (27.5%).
+* The products that consumers spent the most money during the 2-year period were Wine (50.3%) and Meat product (27.5%).
 
 * Customers who purchase wine commodities also tend to purchase meat and vice versa, indicating a potential relationship or preference between the two products.
 
