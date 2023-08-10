@@ -25,6 +25,7 @@ If the selling price of a piece of meat is 7 € and a bottle of wine is 10 €,
 
 # Recommendation
 
-1. sadadk
-2. sdasdlam
-3. sadkjna
+1. Wine and meat products are the most sold products, although sales have decreased in the last two years, therefore we need to to increase customer transactions to increase sales by giving promos through catalog transactions, in order to get a revenue of about 42% (assuming sales of wine prices of 10€ per bottle and meat prices of 7€)
+2. Plan integrated marketing strategies for wine and meat products using marketing strategies resembling the last marketing campaigns and targeting customers with age groups under 30 and over 75 years old, with a minimum education level of graduate, both for those who live alone or who are married.
+3. Other than cultivating catalogue purchasing especially to sell meat and wine products, it is also important to maintain the website and in-store purchasing system as both still promising.
+4. Sales service and the quality of wine sales need to be improved because there are still reports of complaints from customers.
