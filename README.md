@@ -13,9 +13,11 @@ Results from observation data analysis, as follows:
 
 * Generally the highest transaction occured during the last marketing campaign with 33.5% and the lowest transaction occured during the 2nd phase of marketing campaign by 3.0%.
 
-* The performance of the marketing campaign seen in each medium of purchase (website, catalog, store) was best during the last marketing campaign.
+* The correlations of NumCatalogPurchases with MntWines and MntMeatProducts are 0.822926 and 0.853744 respectively. This is evidence of the strong relationship between wine and meat purchases through catalog purchasing.
 
-* Based on data without reviewing the market campaign phase, customers made the most transactions in the store (12,855 times) than on the website (9,053 times) and catalog (5,919 times)
+* The majority of customers who buy wine have a graduate level of education and above, whether they live in a couple or alone.
+
+* The age range of customers who buy wine is the majority at the age of >75 followed by the age group <30, while for the age range of customers who buy meat the majority are the age group <30 then >75.
 
 Based on data analysis, in order to increase sales we need to design a marketing strategy similar to the last marketing strategy in the previous campaign, we suggest to give promos for transactions made with catalogs for wine and meat products, because there is a high correlation between transactions through catalogs for wine and meat products, this marketing strategy can target age groups under 30 and over 75 years old, with a minimum education level of graduate, both for those who live alone or who are married.
 
